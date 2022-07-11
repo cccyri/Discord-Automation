@@ -1,7 +1,7 @@
 # Discord-Automation
 Let the bot do the writing for you.
 
-![image](https://user-images.githubusercontent.com/87335585/177186435-fa83a3dc-57a8-44e0-a594-f81646acef3b.png)
+![image](https://user-images.githubusercontent.com/87335585/178239084-ea939d71-df7b-43f1-a7c2-01e49c29e931.png)
 # Motivation
 Being an active community member is hard at times, this script helps solve that problem.
 # The technology
